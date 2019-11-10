@@ -7,4 +7,6 @@ Includes the following algorithms
 4. KNN regressor & classification
 5. Support vector regressor and Support vector classifier using kernel tricks
 6. Polynomial regression 
-7. All of the alogirthms are carried out using the SKLEARN package 
+7. Logistic regression
+8. Decision trees
+9. All of the alogirthms are carried out using the SKLEARN package 
