@@ -6,4 +6,5 @@ Includes the following algorithms
 3. Ridge and Lasso regression 
 4. KNN regressor & classification
 5. Support vector regressor and Support vector classifier using kernel tricks
-6. All of the alogirthms are carried out using the SKLEARN package 
+6. Polynomial regression 
+7. All of the alogirthms are carried out using the SKLEARN package 
